@@ -8,6 +8,7 @@ import PrimeVue from 'primevue/config'
 import Aura from '@primevue/themes/aura'
 import 'primeicons/primeicons.css'
 import StyleClass from 'primevue/styleclass'
+import 'primeflex/primeflex.css'
 
 import Ripple from 'primevue/ripple'
 //vue imports
